@@ -67,6 +67,10 @@ p {
 }
 
 /* SOBRE */
+#about-text p {
+    line-height: 1.42em;
+}
+
 #myself-img img {
     border: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: 1000rem;
@@ -79,14 +83,25 @@ p {
     justify-content: center;
 }
 
+@media (max-width: 768px) {
+    #myself-img {
+        margin: 0 auto;
+    }
+}
+
 @media (max-width: 576px) {
     #myself-img {
-        width: 70%;
+        width: 65%;
         margin: 0 auto;
     }
 
     #about-text {
         margin-top: 1.1rem;
+    }
+
+    #about-text p {
+        line-height: 1.5em;
+        margin-bottom: .7rem;
     }
 
     #about-text h1 {
