@@ -31,13 +31,13 @@ p {
 }
 
 /* NAVBAR */
-.dropdown-item:hover {
-    background-color: #22272e !important;
-}
+/* .dropdown-item:hover {
+    background-color: #22272e;
+} */
 
-#dropdown-menu {
+/* #dropdown-menu {
     background-color: #323534;
-}
+} */
 
 #logo {
     font-size: 1.4rem;
