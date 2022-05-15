@@ -31,13 +31,13 @@ p {
 }
 
 /* NAVBAR */
-/* .dropdown-item:hover {
+.dropdown-item:hover {
     background-color: #22272e;
-} */
+}
 
-/* #dropdown-menu {
+#dropdown-menu {
     background-color: #323534;
-} */
+}
 
 #logo {
     font-size: 1.4rem;
@@ -208,9 +208,7 @@ p {
 
 /* FOOTER */
 
-/* .grid { */
-    /* background-image: linear-gradient(to right, #300030 ,#480048 , #601848 ,#C04848, #F07241); */
+/* .grid {
+    /* background-image: linear-gradient(to right, #300030 ,#480048 , #601848 ,#C04848, #dd5d2a); */
     /* background-image: linear-gradient(to right, #270733,#310940,#6C148C,#9D1DCC); */
     /* background-image: linear-gradient(to right,#0D0D0D,#260120,#40013C,#580259,#7C038C); */
-    /* background-image: linear-gradient(to right,#060126,#460273,#48048C,#7404BF,#8404D9); */
-/* } */
