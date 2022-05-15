@@ -32,11 +32,11 @@ p {
 
 /* NAVBAR */
 .dropdown-item:hover {
-    background-color: #22272e;
+    background-color: #22272e !important;
 }
 
 .dropdown-menu {
-    background-color: #323534;
+    background-color: #323534 !important;
 }
 
 #logo {
