@@ -35,8 +35,8 @@ p {
     background-color: #22272e !important;
 }
 
-.dropdown-menu {
-    background-color: #323534 !important;
+#dropdown-menu {
+    background-color: #323534;
 }
 
 #logo {
